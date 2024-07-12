@@ -593,6 +593,7 @@ footer {
     -webkit-text-stroke-width: 0.05rem;
     -webkit-text-stroke-color: black;
     text-align: center;
+    overflow: hidden;
   }
 
   .first-row {
